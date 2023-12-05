@@ -35,6 +35,6 @@ Guilherme Assis: https://github.com/GuilhermeAssisF <br />
 Pierre Moraes: <br /><br />
 
 
-## Status do projeto
+## 🚀 Status do projeto
 
 Concluído
