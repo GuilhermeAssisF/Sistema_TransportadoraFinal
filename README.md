@@ -38,3 +38,15 @@ Pierre Moraes: <br /><br />
 ## 🚀 Status do projeto
 
 Concluído
+
+## Tela de Login
+![image](https://github.com/GuilhermeAssisF/Sistema_TransportadoraFinal/assets/132107614/642ef9db-2482-4dde-9b73-4134a5f97b6a)
+
+## Tela Cadastro Pedidos
+
+
+## Tela Buscar Pedidos
+
+
+## Tela Alterar Pedidos
+
