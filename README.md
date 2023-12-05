@@ -24,7 +24,7 @@ Free MySQL Hosting<br /><br />
 
 ### 📋 Pré-requisitos
 
-Visual Studio 2022 instalado em seu computado<br />
+Visual Studio 2022 instalado em seu computador<br />
 Ferramenta .Net<br />
 Pacote Nuget: MySql.Data<br /><br />
 
