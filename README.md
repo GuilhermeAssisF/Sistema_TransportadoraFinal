@@ -2,6 +2,9 @@
 
 Este é o noso projeto final da matéria, e com base com oque aprendemos em sala de aula construimos um sistema utilizando Csharp com Windows Forms, nesse sistemas que está conectado com banco de dados criado no My Sql WorkBench e hospedado de forma remota, é possível registrar e controlar novos pedidos, novos produtos e acessar o aplicativo apenas com login de usuário. Para facilitar a vizualização do usuário o programa exibe os pedidos em tabelas sendo possível aterar dados e remover pedidos que são atualizados em tempo real dentro do banco de dados.<br /><br />
 
+USUARIO: adm<br />
+SENHA: 123
+
 
 ## 💻 Funcionalidades do projeto
 
@@ -32,7 +35,7 @@ Pacote Nuget: MySql.Data<br /><br />
 ## 👥 Colaboradores
 
 Guilherme Assis: https://github.com/GuilhermeAssisF <br />
-Pierre Moraes: <br /><br />
+Pierre Moraes: https://github.com/Pierrecauee <br /><br />
 
 
 ## 🚀 Status do projeto
@@ -43,10 +46,12 @@ Concluído
 ![image](https://github.com/GuilhermeAssisF/Sistema_TransportadoraFinal/assets/132107614/642ef9db-2482-4dde-9b73-4134a5f97b6a)
 
 ## Tela Cadastro Pedidos
-
+![image](https://github.com/GuilhermeAssisF/Sistema_TransportadoraFinal/assets/132107614/7941416a-6905-4ec3-b60d-c808ff10e4d5)
 
 ## Tela Buscar Pedidos
-
+![image](https://github.com/GuilhermeAssisF/Sistema_TransportadoraFinal/assets/132107614/e4cd9d85-a6af-41f8-ad09-0c4a05647c25)
 
 ## Tela Alterar Pedidos
+![image](https://github.com/GuilhermeAssisF/Sistema_TransportadoraFinal/assets/132107614/2a998a8e-f817-4a3e-942d-d2c2f2dbf2d6)
+
 
